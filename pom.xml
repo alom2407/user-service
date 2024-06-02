@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.alom</groupId>
-	<artifactId>runnerz</artifactId>
+	<artifactId>track-stride</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>runnerz</name>
 	<description>Demo project for Spring Boot</description>
