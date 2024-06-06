@@ -1,7 +1,7 @@
 
 # Track Stride
-
-Here you can log and analyse your run
+Has user login and authorization as well
+Here you can log and analyse your run. 
 
 
 ## Authors
