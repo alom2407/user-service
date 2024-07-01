@@ -1,5 +1,5 @@
 
-# Track Stride
+# User Service
 Has user login and authorization as well
 Here you can log and analyse your run. 
 
