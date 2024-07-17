@@ -28,6 +28,10 @@ user service can used to authenticate the user or onboard a new user on your pla
 
 #### Post Signup New User
 
+```http
+  POST /auth/signup
+```
+
 Signup a new user on platform
 
 | Parameter | Type     | Description                       |
@@ -37,6 +41,10 @@ Signup a new user on platform
 | `firstName`      | `string` | **Required**. 
 
 #### Post User Login
+
+```http
+  POST /auth/login
+```
 
 User login on platform
 
