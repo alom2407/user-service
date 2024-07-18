@@ -3,6 +3,7 @@
 
 user service can used to authenticate the user or onboard a new user on your platform. It uses PKI to sign and create the token. Those token can be used to authenticate api requests. 
 
+## Flow Diagram
 
 ## API Reference
 
